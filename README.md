@@ -4,13 +4,13 @@ I am a junior full stack developer that is passionate about using clean code, te
 
 ## Projects
 
-| Name                         | Description                                                                                                                   | Tech/tools                                           |
+| Name                         | Description                                                                                                                   | Technologies and/or Tools                                           |
 | ---------------------------- | ----------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- |
-| [**Dealscover London**](https://github.com/Caroline-Amanquah/dealscover-london) | MERN full stack web application aimed to help users find events in London based on their budget                             | Jest, Cypress, MongoDB, Express, React, and Node.js |
-| Bank Statement Challenge     | A program that generates a detailed bank statement for clients, outlining their transaction history                            | Javascript and Jest                                 |
-| Bowling Challenge            | Created a bowling game that accurately counts and sums up the scores                                                         | Javascript and Jest                                 |
-| SmoothieShop :)              | Developed a webpage showcasing smoothies                                                                                      | Python and Django                                   |
-| Code First Girls Python Project | Utilised Python to perform data analysis on a CSV file                                                                       | Python                                               |
+| [**Dealscover London**](https://github.com/Caroline-Amanquah/dealscover-london) | MERN full stack web application aimed to help users find events in London based on their budget.                             | Javascript, HTML, CSS, Jest, Cypress, MongoDB, Express, React, and Node.js. |
+| [**Bank Statement Challenge**](https://github.com/Caroline-Amanquah/Bank_Statement_Challenge)     | A software program that generates a detailed bank statement for clients, outlining their transaction history.                            | Javascript and Jest.                                 |
+| [**Simple Calculator Application**](https://github.com/Caroline-Amanquah/simple-calculator-app)            | A simple command-line calculator application that performs basic arithmetic operations such as addition, subtraction, multiplication, and division.                                                         | Java.                                 |
+| [**SmoothieShop :)**](https://github.com/Caroline-Amanquah/Django-Webpage)              | Developed a webpage showcasing smoothies.                                                                                      | Python and Django.                                   |
+| [**Simple Todo List Application**](https://github.com/Caroline-Amanquah/simple-todo-list-application/tree/main) | A Todo List Application that manages tasks by adding, marking tasks as completed, and listing tasks with their completion status.                                                                     | React, Webpack, Typescript, Javascript and HTML.                                               |
 
 
 
