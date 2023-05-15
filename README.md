@@ -27,8 +27,28 @@ I am a junior full stack developer that is passionate about using clean code, te
 | [**Simple Todo List Application**](https://github.com/Caroline-Amanquah/simple-todo-list-application/tree/main) | A Todo List Application that manages tasks by adding, marking tasks as completed, and listing tasks with their completion status.                                                                     | React, Webpack, Typescript, Javascript and HTML.                                               |
 
 
+## Education
 
-## Work Experience
+### Makers Academy (11/2022 to 03/2023)
+A 12-week bootcamp where I gained a strong foundation in software development fundamentals and learned about a variety of software processes, including pair programming, debugging, red-green-refactoring (Test-Driven Development), and agile methodologies.
+
+### Introduction to Python Programming, *Code First Girls* (01/2022 to 03/2022)
+- The course covers the basics of programming using the Python programming language, with a focus on building practical programming skills through hands-on exercises and projects. Topics covered in the course included Python syntax, data types and structures, control structures, functions, file input/output, and basic algorithms.
+
+### Postgraduate Certification in Low-Intensity Cognitive Behavioral Interventions, *UCL* (10/2020 – 10/2021)
+- Pass
+- Achieved the highest grade on the course and complied to tight academic and clinical deadlines. Managed a caseload of approximately 30 clients. Relevant topics include Engagement and Assessment of Patients with Common Mental Health Problems and Evidence-Based Low-Intensity Treatment for Common Mental Health Disorders.
+
+### BSc Psychology, *University of Essex* (10/2016 – 09/2019)
+- 2:1
+- Successfully conducted and reported my experiment for my Dissertation using MATLAB and SPSS for data collection, processing, and storage resulting in a 2:1 grade. Relevant topics include Research Methods, Statistics, Psychiatry and Mental illness, Social Psychology and Neuroscience.
+
+## Work Experience:
+
+Psychological Wellbeing Practitioner | NHS
+Mental Health Recovery Support Worker | Maison Moti
+Research Assistant | University of Essex
+Training Officer | University of Essex
 
 **Company Name** (start-date to end-date)  
 _Your job title_
@@ -40,28 +60,10 @@ _Your job title_
 
 - Any experience relevent to software development
 
+## Interests
+- Hackathon's: Ranked Top 10 in Cognizant's Full Stack Developer Hackathon 
+- Swimming
+- Art
+- Writing
 
-## Education
 
-#### Makers Academy (start_date to end_date)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
-
-#### Your University / College (start_date to end_date)
-
-- Subject, any specialisms
-- Grade
-- Other cool stuff
-
-#### Any other qualifications
-
-That in some arguable way make you a better software developer or well-rounded person
-
-## Hobbies
-
-Any cool stuff that makes you a super part of a software development team
