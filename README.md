@@ -1,13 +1,18 @@
-## Caroline Amanquah
+# Caroline Amanquah
 
 I am a junior full stack developer that is passionate about using clean code, test-driven development, and agile methodologies to create user-focused software.
 
 ## Projects
 
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| Name                         | Description                                                                                                                   | Tech/tools                                           |
+| ---------------------------- | ----------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- |
+| [**Dealscover London**](https://github.com/Caroline-Amanquah/dealscover-london) | MERN full stack web application aimed to help users find events in London based on their budget                             | Jest, Cypress, MongoDB, Express, React, and Node.js |
+| Bank Statement Challenge     | A program that generates a detailed bank statement for clients, outlining their transaction history                            | Javascript and Jest                                 |
+| Bowling Challenge            | Created a bowling game that accurately counts and sums up the scores                                                         | Javascript and Jest                                 |
+| SmoothieShop :)              | Developed a webpage showcasing smoothies                                                                                      | Python and Django                                   |
+| Code First Girls Python Project | Utilised Python to perform data analysis on a CSV file                                                                       | Python                                               |
+
+
 
 ## Work Experience
 
