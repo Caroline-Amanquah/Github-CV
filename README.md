@@ -7,7 +7,7 @@ I am a junior full stack developer that is passionate about using clean code, te
   <a href="#skills">Skills |</a> 
   <a href="#projects">Projects |</a> 
   <a href="#education">Education |</a> 
-  <a href="#work-experience">Work Experience</a>
+  <a href="#work-experience">Work Experience |</a>
   <a href="#interests">Interests</a>
 </h2>
 
