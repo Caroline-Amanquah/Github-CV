@@ -41,7 +41,9 @@ I am a junior full stack developer that is passionate about using clean code, te
 <h2 align="center"> Education: </h2>
 
 ### Makers Academy (11/2022 to 03/2023)
-- A 12-week bootcamp where I gained a strong foundation in software development fundamentals and learned about a variety of software processes, including pair programming, debugging, red-green-refactoring (Test-Driven Development), and agile methodologies.
+- Completed an intensive 12-week bootcamp at Makers Academy, gaining a robust foundation in software development fundamentals, including pair programming, debugging, test-driven development, and agile methodologies.
+- Developed proficiency in multiple programming languages (Ruby, JavaScript, SQL) and acquired hands-on full-stack web development expertise, focusing on HTTP protocols, web routing, web frameworks, and cloud-based application deployment via Heroku. I also gained experience in the design and construction of backend APIs using Node.js, Express, and MongoDB, ensuring seamless integration with a React frontend. 
+- Strengthened team collaboration and agile project management capabilities, managing project tasks, and adapting to diverse working styles and ideas within team settings.
 
 ### Introduction to Python Programming, *Code First Girls* (01/2022 to 03/2022)
 - The course covers the basics of programming using the Python programming language, with a focus on building practical programming skills through hands-on exercises and projects. Topics covered in the course included Python syntax, data types and structures, control structures, functions, file input/output, and basic algorithms.
