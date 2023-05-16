@@ -14,27 +14,29 @@ I am a junior full stack developer that is passionate about using clean code, te
 <a name="skills"></a>
 <h2 align="center"> Skills: </h2>
 
-|      **Languages**     |       **Databases**      | **Frameworks** | **Techniques** |
-|:----------------------:|:------------------------:|:--------------:|:--------------:|
-| Ruby                   | PostgreSQL               | Sinatra        | Test-Driven Development (Rspec, Jest, and Cypress) |
-| JavaScript             | MongoDB                  | React          | Object-Oriented Programming (including Single Responsibility Principle (SRP), Open/Closed Principle (OCP), Liskov Substitution Principle (LSP), Interface Segregation Principle (ISP), and Dependency Inversion Principle (DIP)|
-| Python                   |                          | Node.js        | Agile (including Scrum) |
-| CSS                    |                          | Express        | Version Control (Git) |
-| HTML                 |                          | Django         | Repository Hosting and Collaboration (GitHub) |
-| SQL                    |                          | Bootstrap      | UI/UX Design and Prototyping (Figma) |
-| Typescript                       |                          | Vue.js         | Pair Programming |
-| Java                       |                          |                | Peer Review |
+| **Languages** | **Databases** | **Frameworks** | **Techniques** |
+|:--------------|:--------------|:--------------:|:---------------|
+| Ruby          | PostgreSQL    | Sinatra        | Test-Driven Development (Rspec, Jest, and Cypress) |
+| JavaScript    | MongoDB       | React          | Object-Oriented Programming (including Single Responsibility Principle, Open/Closed Principle, Liskov Substitution Principle, Interface Segregation Principle, and Dependency Inversion Principle) |
+| Python        |               | Node.js        | Agile (including Scrum) |
+| CSS           |               | Express        | Version Control (Git) |
+| HTML          |               | Django         | Repository Hosting and Collaboration (GitHub) |
+| SQL           |               | Bootstrap      | UI/UX Design and Prototyping (Figma) |
+| Typescript    |               | Vue.js         | Pair Programming |
+| Java          |               |                | Peer Review |
+
 
 <a name="projects"></a>
 <h2 align="center"> Projects: </h2>
 
-| Name                         | Description                                                                                                                   | Technologies and/or Tools                                           |
-| ---------------------------- | ----------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- |
-| [**Dealscover London**](https://github.com/Caroline-Amanquah/dealscover-london) | MERN full stack web application aimed to help users find events in London based on their budget.                             | Javascript, HTML, CSS, Jest, Cypress, MongoDB, Express, React, and Node.js. |
-| [**Bank Statement Challenge**](https://github.com/Caroline-Amanquah/Bank_Statement_Challenge)     | A software program that generates a detailed bank statement for clients, outlining their transaction history.                            | Javascript and Jest.                                 |
-| [**Simple Calculator Application**](https://github.com/Caroline-Amanquah/simple-calculator-app)            | A simple command-line calculator application that performs basic arithmetic operations such as addition, subtraction, multiplication, and division.                                                         | Java.                                 |
-| [**SmoothieShop :)**](https://github.com/Caroline-Amanquah/Django-Webpage)              | Developed a webpage showcasing smoothies.                                                                                      | Python and Django.                                   |
-| [**Simple Todo List Application**](https://github.com/Caroline-Amanquah/simple-todo-list-application/tree/main) | A Todo List Application that manages tasks by adding, marking tasks as completed, and listing tasks with their completion status.                                                                     | React, Webpack, Typescript, Javascript and HTML.                                               |
+| Name | Description | Technologies and/or Tools |
+|:---- |:----------- |:------------------------- |
+| [**Dealscover London**](https://github.com/Caroline-Amanquah/dealscover-london) | MERN full stack web application aimed to help users find events in London based on their budget. | Javascript, HTML, CSS, Jest, Cypress, MongoDB, Express, React, and Node.js. |
+| [**Bank Statement Challenge**](https://github.com/Caroline-Amanquah/Bank_Statement_Challenge) | A software program that generates a detailed bank statement for clients, outlining their transaction history. | Javascript and Jest. |
+| [**Simple Calculator Application**](https://github.com/Caroline-Amanquah/simple-calculator-app) | A simple command-line calculator application that performs basic arithmetic operations such as addition, subtraction, multiplication, and division. | Java. |
+| [**SmoothieShop :)**](https://github.com/Caroline-Amanquah/Django-Webpage) | Developed a webpage showcasing smoothies. | Python and Django. |
+| [**Simple Todo List Application**](https://github.com/Caroline-Amanquah/simple-todo-list-application/tree/main) | A Todo List Application that manages tasks by adding, marking tasks as completed, and listing tasks with their completion status. | React, Webpack, Typescript, Javascript, and HTML. |
+
 <a name="education"></a>
 <h2 align="center"> Education: </h2>
 
