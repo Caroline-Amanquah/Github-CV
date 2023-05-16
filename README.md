@@ -7,13 +7,13 @@ I am a junior full stack developer that is passionate about using clean code, te
 |      **Languages**     |       **Databases**      | **Frameworks** | **Techniques** |
 |:----------------------:|:------------------------:|:--------------:|:--------------:|
 | Ruby                   | PostgreSQL               | Sinatra        | Test-Driven Development (Rspec, Jest, and Cypress) |
-| JavaScript             | MongoDB                  | React          | Object-Oriented Programming |
-| HTML                   |                          | Node.js        | Agile (including Scrum) |
+| JavaScript             | MongoDB                  | React          | Object-Oriented Programming (including Single Responsibility Principle (SRP), Open/Closed Principle (OCP), Liskov Substitution Principle (LSP), Interface Segregation Principle (ISP), and Dependency Inversion Principle (DIP)|
+| Python                   |                          | Node.js        | Agile (including Scrum) |
 | CSS                    |                          | Express        | Version Control (Git) |
-| Python                 |                          | Django         | Repository Hosting and Collaboration (GitHub) |
+| HTML                 |                          | Django         | Repository Hosting and Collaboration (GitHub) |
 | SQL                    |                          | Bootstrap      | UI/UX Design and Prototyping (Figma) |
-|                        |                          | Vue.js         | Pair Programming |
-|                        |                          |                | Peer Review |
+| Typescript                       |                          | Vue.js         | Pair Programming |
+| Java                       |                          |                | Peer Review |
 
 
 ## Projects
@@ -30,7 +30,7 @@ I am a junior full stack developer that is passionate about using clean code, te
 ## Education
 
 ### Makers Academy (11/2022 to 03/2023)
-A 12-week bootcamp where I gained a strong foundation in software development fundamentals and learned about a variety of software processes, including pair programming, debugging, red-green-refactoring (Test-Driven Development), and agile methodologies.
+- A 12-week bootcamp where I gained a strong foundation in software development fundamentals and learned about a variety of software processes, including pair programming, debugging, red-green-refactoring (Test-Driven Development), and agile methodologies.
 
 ### Introduction to Python Programming, *Code First Girls* (01/2022 to 03/2022)
 - The course covers the basics of programming using the Python programming language, with a focus on building practical programming skills through hands-on exercises and projects. Topics covered in the course included Python syntax, data types and structures, control structures, functions, file input/output, and basic algorithms.
@@ -45,23 +45,22 @@ A 12-week bootcamp where I gained a strong foundation in software development fu
 
 ## Work Experience:
 
-Psychological Wellbeing Practitioner | NHS
-Mental Health Recovery Support Worker | Maison Moti
-Research Assistant | University of Essex
-Training Officer | University of Essex
+### Psychological Wellbeing Practitioner, *NHS* (10/2020 - 10/2022) 
+- Delivered cognitive behavioural interventions and assessments to clients with mental health challenges and disabilities through various channels, including phone, video, face- to-face, and typed communication. Attained a recovery rate of around 80%.
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+### Mental Health Recovery Support Worker, *Maison Moti* (09/2019 - 07/2020)
+- Used supervision and team meetings to coordinate health and social care services and effectively plan interventions. Assessed service user needs, maintained support plans, and implemented administrative tasks to ensure independent living goals are met. 
+- Drafted meeting minutes as needed.
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
+### Research Assistant, *University of Essex* (10/2017 - 12/2018)
+- I also conducted hypothesis testing and recorded findings as a research assistant at the University of Essex mainly using MATLAB, SPSS and Excel.
+ 
+### Training Officer, *University of Essex* (10/2017 - 03/2018)
+- As the Training Officer for Nightline, I effectively trained volunteers and actively kept the training of the executive team up to date and provided mental health support to service users. 
 
-**Company Name** (start-date to end-date)  
-_Your job title_
-
-- Any experience relevent to software development
 
 ## Interests
-- Hackathon's: Ranked Top 10 in Cognizant's Full Stack Developer Hackathon 
+- Hackathon's: Ranked Top 10 in the 2023 TargetJobs National Coding Challenge in full stack development in partnership with Cognizant.
 - Swimming
 - Art
 - Writing
