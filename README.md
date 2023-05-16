@@ -1,6 +1,6 @@
 <h1 align="center"> Caroline Amanquah </h1>
 
-I am a junior full stack developer that is passionate about using clean code, test-driven development, and agile methodologies to create user-focused software.
+I am a junior full stack developer that is passionate about using clean code, test-driven development, and agile methodologies to create user-focused software. My dedication and skills have garnered recognition, as evidenced by my placement in the Top 10 of the 2023 TargetJobs National Coding Challenge, a full stack development competition in partnership with Cognizant.
 
 
 <h2 align="center">
@@ -71,7 +71,7 @@ I am a junior full stack developer that is passionate about using clean code, te
 <a name="interests"></a>
 <h2 align="center"> Interests: </h2>
 
-- Hackathon's: Ranked Top 10 in the 2023 TargetJobs National Coding Challenge in full stack development in partnership with Cognizant.
+- Hackathon's
 - Swimming
 - Art
 - Writing
