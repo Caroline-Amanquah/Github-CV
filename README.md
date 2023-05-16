@@ -1,8 +1,18 @@
-# Caroline Amanquah
+<h1 align="center"> Caroline Amanquah </h1>
 
 I am a junior full stack developer that is passionate about using clean code, test-driven development, and agile methodologies to create user-focused software.
 
-## Skills
+
+<h2 align="center">
+  <a href="#skills">Skills |</a> 
+  <a href="#projects">Projects |</a> 
+  <a href="#education">Education |</a> 
+  <a href="#work-experience">Work Experience</a>
+  <a href="#interests">Interests</a>
+</h2>
+
+<a name="skills"></a>
+<h2 align="center"> Skills: </h2>
 
 |      **Languages**     |       **Databases**      | **Frameworks** | **Techniques** |
 |:----------------------:|:------------------------:|:--------------:|:--------------:|
@@ -15,8 +25,8 @@ I am a junior full stack developer that is passionate about using clean code, te
 | Typescript                       |                          | Vue.js         | Pair Programming |
 | Java                       |                          |                | Peer Review |
 
-
-## Projects
+<a name="projects"></a>
+<h2 align="center"> Projects: </h2>
 
 | Name                         | Description                                                                                                                   | Technologies and/or Tools                                           |
 | ---------------------------- | ----------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- |
@@ -25,9 +35,8 @@ I am a junior full stack developer that is passionate about using clean code, te
 | [**Simple Calculator Application**](https://github.com/Caroline-Amanquah/simple-calculator-app)            | A simple command-line calculator application that performs basic arithmetic operations such as addition, subtraction, multiplication, and division.                                                         | Java.                                 |
 | [**SmoothieShop :)**](https://github.com/Caroline-Amanquah/Django-Webpage)              | Developed a webpage showcasing smoothies.                                                                                      | Python and Django.                                   |
 | [**Simple Todo List Application**](https://github.com/Caroline-Amanquah/simple-todo-list-application/tree/main) | A Todo List Application that manages tasks by adding, marking tasks as completed, and listing tasks with their completion status.                                                                     | React, Webpack, Typescript, Javascript and HTML.                                               |
-
-
-## Education
+<a name="education"></a>
+<h2 align="center"> Education: </h2>
 
 ### Makers Academy (11/2022 to 03/2023)
 - A 12-week bootcamp where I gained a strong foundation in software development fundamentals and learned about a variety of software processes, including pair programming, debugging, red-green-refactoring (Test-Driven Development), and agile methodologies.
@@ -43,7 +52,8 @@ I am a junior full stack developer that is passionate about using clean code, te
 - 2:1
 - Successfully conducted and reported my experiment for my Dissertation using MATLAB and SPSS for data collection, processing, and storage resulting in a 2:1 grade. Relevant topics include Research Methods, Statistics, Psychiatry and Mental illness, Social Psychology and Neuroscience.
 
-## Work Experience:
+<a name="work-experience"></a>
+<h2 align="center"> Work Experience: </h2>
 
 ### Psychological Wellbeing Practitioner, *NHS* (10/2020 - 10/2022) 
 - Delivered cognitive behavioural interventions and assessments to clients with mental health challenges and disabilities through various channels, including phone, video, face- to-face, and typed communication. Attained a recovery rate of around 80%.
@@ -58,8 +68,9 @@ I am a junior full stack developer that is passionate about using clean code, te
 ### Training Officer, *University of Essex* (10/2017 - 03/2018)
 - As the Training Officer for Nightline, I effectively trained volunteers and actively kept the training of the executive team up to date and provided mental health support to service users. 
 
+<a name="interests"></a>
+<h2 align="center"> Interests: </h2>
 
-## Interests
 - Hackathon's: Ranked Top 10 in the 2023 TargetJobs National Coding Challenge in full stack development in partnership with Cognizant.
 - Swimming
 - Art
