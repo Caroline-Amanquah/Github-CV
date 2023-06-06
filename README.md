@@ -50,18 +50,26 @@ As an enthusiastic Junior Full Stack Developer, I leverage clean code, test-driv
 <a name="work-experience"></a>
 <h2 align="center"> Work Experience: </h2>
 
-### Psychological Wellbeing Practitioner, *NHS* (10/2020 - 10/2022) 
-- Delivered cognitive behavioural interventions and assessments to clients with mental health challenges and disabilities through various channels, including phone, video, face- to-face, and typed communication. Attained a recovery rate of around 80%.
+### Psychological Wellbeing Practitioner, NHS (10/2020 - 10/2022)
+- **Adaptability, Problem-Solving and Creativity:** Utilised these skills to deliver tailored cognitive behavioural therapeutic interventions to clients with mental health difficulties across multiple channels like phone, video, and face-to-face communication.
+  - **Result:** This approach contributed to a significant recovery rate of around 80%
 
-### Mental Health Recovery Support Worker, *Maison Moti* (09/2019 - 07/2020)
-- Used supervision and team meetings to coordinate health and social care services and effectively plan interventions. Assessed service user needs, maintained support plans, and implemented administrative tasks to ensure independent living goals are met. 
-- Drafted meeting minutes as needed.
+### Mental Health Recovery Support Worker, Maison Moti (09/2019 - 07/2020)
+- **Empathy, Coordination and Planning:** Employed these abilities during supervision and team meetings to align health and social care services effectively and to plan interventions accurately.
+  - **Impact:** This ensured a harmonious workflow and accurate delivery of necessary services, aiding service users in achieving their independent living goals.
+- **Administrative Competency:** Demonstrated this skill by maintaining support plans and implementing administrative tasks.
+  - **Outcome:** These tasks contributed to the overall operational efficiency and ensured that service user needs were consistently met.
 
-### Research Assistant, *University of Essex* (10/2017 - 12/2018)
-- I also conducted hypothesis testing and recorded findings as a research assistant at the University of Essex mainly using MATLAB, SPSS and Excel.
- 
-### Training Officer, *University of Essex* (10/2017 - 03/2018)
-- As the Training Officer for Nightline, I effectively trained volunteers and actively kept the training of the executive team up to date and provided mental health support to service users. 
+### Research Assistant, University of Essex (10/2017 - 12/2018)
+- **Analytical Skill:** Demonstrated meticulous attention to detail while conducting hypothesis testing and recording findings primarily using MATLAB, SPSS, and Excel.
+  - **Impact:** This facilitated accurate research results and data analysis, which were integral to the success of the academic research projects.
+
+### Training Officer, University of Essex (10/2017 - 03/2018)
+- **Empathy and Patience:** Leveraged these interpersonal skills to effectively train volunteers and keep the executive team's training up-to-date.
+  - **Result:** This approach nurtured a supportive and productive learning environment for all team members.
+- **Mental Health Support:** Provided this crucial support to service users as a part of my role.
+  - **Impact:** This ensured the overall wellbeing of service users, allowing them to comfortably participate and contribute in their respective roles.
+
 
 <a name="interests"></a>
 <h2 align="center"> Interests: </h2>
