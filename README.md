@@ -3,38 +3,25 @@
 As an enthusiastic Junior Full Stack Developer, I leverage clean code, test-driven development, and agile methodologies to create user-centric software, a proficiency validated by my Top 10 ranking at the 2023 TargetJobs National Coding Challenge with Cognizant. Motivated to improve software efficiency from my experience as a Psychological Wellbeing Practitioner,  I transitioned into software development. Currently, as a Makers graduate, I harness my problem-solving and analytical skills to continuously strive to create impactful solutions, motivated by a drive for meaningful innovation.
 
 <h2 align="center">
-  <a href="#skills">Skills |</a> 
   <a href="#projects">Projects |</a> 
   <a href="#education">Education |</a> 
   <a href="#work-experience">Work Experience |</a>
   <a href="#interests">Interests</a>
 </h2>
 
-<a name="skills"></a>
-<h2 align="center"> Skills: </h2>
-
-| **Languages** | **Databases** | **Frameworks** | **Techniques** |
-|:--------------|:--------------|:--------------:|:---------------|
-| Ruby          | PostgreSQL    | Sinatra        | Test-Driven Development (Rspec, Jest, and Cypress) |
-| JavaScript    | MongoDB       | React          | Object-Oriented Programming (including Single Responsibility Principle, Open/Closed Principle, Liskov Substitution Principle, Interface Segregation Principle, and Dependency Inversion Principle) |
-| Python        |               | Node.js        | Agile (including Scrum) |
-| CSS           |               | Express        | Version Control (Git) |
-| HTML          |               | Django         | Repository Hosting and Collaboration (GitHub) |
-| SQL           |               | Bootstrap      | UI/UX Design and Prototyping (Figma) |
-| Typescript    |               | Vue.js         | Pair Programming |
-| Java          |               |                | Peer Review |
 
 
 <a name="projects"></a>
 <h2 align="center"> Projects: </h2>
 
-| Name | Description | Technologies and/or Tools |
-|:---- |:----------- |:------------------------- |
-| [**Dealscover London**](https://github.com/Caroline-Amanquah/dealscover-london) | MERN full stack web application aimed to help users find events in London based on their budget. | Javascript, HTML, CSS, Jest, Cypress, MongoDB, Express, React, and Node.js. |
-| [**Bank Statement Challenge**](https://github.com/Caroline-Amanquah/Bank_Statement_Challenge) | A software program that generates a detailed bank statement for clients, outlining their transaction history. | Javascript and Jest. |
-| [**Simple Calculator Application**](https://github.com/Caroline-Amanquah/simple-calculator-app) | A simple command-line calculator application that performs basic arithmetic operations such as addition, subtraction, multiplication, and division. | Java. |
-| [**SmoothieShop :)**](https://github.com/Caroline-Amanquah/Django-Webpage) | Developed a webpage showcasing smoothies. | Python and Django. |
-| [**Simple Todo List Application**](https://github.com/Caroline-Amanquah/simple-todo-list-application/tree/main) | A Todo List Application that manages tasks by adding, marking tasks as completed, and listing tasks with their completion status. | React, Webpack, Typescript, Javascript, and HTML. |
+| Name | Description | Languages | Databases | Frameworks | Techniques |
+| ---- | ----------- | --------- | --------- | ---------- | ---------- |
+| [**Dealscover London**](https://github.com/Caroline-Amanquah/dealscover-london) | MERN full stack web application aimed to help users find events in London based on their budget. | JavaScript, HTML and CSS | MongoDB | React, Node.js, Express and Bootstrap | Test-Driven Development (Jest and Cypress), Agile methodologies, Version Control (Git), UI/UX Design and Prototyping (Figma), Pair Programming and Code Review |
+| [**Bank Statement Challenge**](https://github.com/Caroline-Amanquah/Bank_Statement_Challenge) | A software program that generates a detailed bank statement for clients, outlining their transaction history. | JavaScript | | | Object-Oriented Programming (including Single Responsibility Principle, Open/Closed Principle, Liskov Substitution Principle, Interface Segregation Principle, and Dependency Inversion Principle) and Git |
+| [**Simple Calculator Application**](https://github.com/Caroline-Amanquah/simple-calculator-app) | A simple command-line calculator application that performs basic arithmetic operations such as addition, subtraction, multiplication, and division. | Java | | | Object-Oriented Programming |
+| [**SmoothieShop :)**](https://github.com/Caroline-Amanquah/Django-Webpage) | Developed a web page showcasing smoothies. | Python | SQLite | Django | Git |
+|  [**Simple Todo List Application**](https://github.com/Caroline-Amanquah/simple-todo-list-application/tree/main) | A Todo List Application that manages tasks by adding, marking tasks as completed, and listing tasks with their completion status. | Typescript, JavaScript, and HTML | | React | Git |
+
 
 <a name="education"></a>
 <h2 align="center"> Education: </h2>
