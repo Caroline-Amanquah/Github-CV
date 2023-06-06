@@ -1,6 +1,6 @@
 <h1 align="center"> Caroline Amanquah </h1>
 
-As an enthusiastic Junior Full Stack Developer, I leverage clean code, test-driven development, and agile methodologies to create user-centric software, a proficiency validated by my Top 10 ranking at the 2023 TargetJobs National Coding Challenge with Cognizant. Motivated to improve software efficiency from my experience as a Psychological Wellbeing Practitioner,  I transitioned into software development. Currently, as a Makers graduate, I harness my problem-solving and analytical skills to continuously strive to create impactful solutions, motivated by a drive for meaningful innovation.
+I am a junior full stack developer that leverages clean code, test-driven development, and agile methodologies for user-centric software, demonstrated by a top 10 ranking at the 2023 TargetJobs National Coding Challenge hackathon with Cognizant. Motivated to improve software efficiency from my experience as a Psychological Wellbeing Practitioner,  I transitioned into software development. Currently, as a Makers graduate, I harness my problem-solving and analytical skills to continuously strive to create impactful solutions, motivated by a drive for meaningful innovation.
 
 <h2 align="center">
   <a href="#projects">Projects |</a> 
