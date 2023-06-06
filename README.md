@@ -65,7 +65,7 @@ As an enthusiastic Junior Full Stack Developer, I leverage clean code, test-driv
   - **Impact:** This facilitated accurate research results and data analysis, which were integral to the success of the academic research projects.
 
 ### Training Officer, *University of Essex* (10/2017 - 03/2018)
-- **Empathy and Patience:** Leveraged these interpersonal skills to effectively train volunteers and keep the executive team's training up-to-date.
+- **Communication skills and Patience:** Leveraged these interpersonal skills to effectively train volunteers and keep the executive team's training up-to-date.
   - **Result:** This approach nurtured a supportive and productive learning environment for all team members.
 - **Mental Health Support:** Provided this crucial support to service users as a part of my role.
   - **Impact:** This ensured the overall wellbeing of service users, allowing them to comfortably participate and contribute in their respective roles.
