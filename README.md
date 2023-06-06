@@ -34,15 +34,18 @@ As an enthusiastic Junior Full Stack Developer, I leverage clean code, test-driv
 - Received specialised training in Emotional Intelligence (EQ) within a technical environment, focusing on empathy, teamwork, and feedback to enhance interpersonal skills
 
 ### Introduction to Python Programming, *Code First Girls* (01/2022 to 03/2022)
-- Successfully completed a comprehensive Python programming course that emphasized practical programming skills acquisition. Through hands-on exercises and projects, acquired proficiency in Python syntax, data types and structures, control structures, functions, file input/output, and basic algorithms.
+- Successfully completed a comprehensive Python programming course that emphasised practical programming skills acquisition. Through hands-on exercises and projects, acquired proficiency in Python syntax, data types and structures, control structures, functions, file input/output, and basic algorithms.
 
-### Postgraduate Certification in Low-Intensity Cognitive Behavioral Interventions, *UCL* (10/2020 – 10/2021)
+### Low-Intensity Cognitive Behavioral Interventions PG Cert, *UCL* (10/2020 – 10/2021)
 - Pass
-- Achieved the highest grade on the course and complied to tight academic and clinical deadlines. Managed a caseload of approximately 30 clients. Relevant topics include Engagement and Assessment of Patients with Common Mental Health Problems and Evidence-Based Low-Intensity Treatment for Common Mental Health Disorders.
+- Attained the highest grade on the postgraduate course and complied to tight academic and clinical deadlines.  
+- Managed a caseload of around 30 clients. 
+- Acquired valuable skills in delivering evidence-based low-intensity treatment and assessing clients with common mental health problems.
 
 ### BSc Psychology, *University of Essex* (10/2016 – 09/2019)
 - 2:1
-- Successfully conducted and reported my experiment for my Dissertation using MATLAB and SPSS for data collection, processing, and storage resulting in a 2:1 grade. Relevant topics include Research Methods, Statistics, Psychiatry and Mental illness, Social Psychology and Neuroscience.
+- Successfully conducted and reported my experiment for my Dissertation using MATLAB and SPSS for data collection, processing, and storage resulting in a 2:1 grade. 
+- Acquired extensive skills and knowledge in Research Methods, Statistics, Psychiatry and Mental Illness, Social Psychology, and Neuroscience.
 
 <a name="work-experience"></a>
 <h2 align="center"> Work Experience: </h2>
