@@ -34,7 +34,7 @@ As an enthusiastic Junior Full Stack Developer, I leverage clean code, test-driv
 - Received specialised training in Emotional Intelligence (EQ) within a technical environment, focusing on empathy, teamwork, and feedback to enhance interpersonal skills
 
 ### Introduction to Python Programming, *Code First Girls* (01/2022 to 03/2022)
-- The course covers the basics of programming using the Python programming language, with a focus on building practical programming skills through hands-on exercises and projects. Topics covered in the course included Python syntax, data types and structures, control structures, functions, file input/output, and basic algorithms.
+- Successfully completed a comprehensive Python programming course that emphasized practical programming skills acquisition. Through hands-on exercises and projects, acquired proficiency in Python syntax, data types and structures, control structures, functions, file input/output, and basic algorithms.
 
 ### Postgraduate Certification in Low-Intensity Cognitive Behavioral Interventions, *UCL* (10/2020 – 10/2021)
 - Pass
