@@ -74,9 +74,7 @@ I am a junior full stack developer that leverages clean code, test-driven develo
 <a name="interests"></a>
 <h2 align="center"> Interests: </h2>
 
-- Hackathon's
-- Swimming
-- Art
-- Writing
+- Art, Design, and Performance: Production Assistant/ Boom Operator for "You're Not My Superhero" Alpha Film in 2022
+- Psychology: founded and directed a mental health social enterprise, the "Mindfulness Collective," in 2018.
 
 
