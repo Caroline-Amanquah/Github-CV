@@ -73,4 +73,4 @@ I am a junior full stack developer that leverages clean code, test-driven develo
 
 <a name="interests"></a>
 <h2 align="center"> Interests: </h2>
-- Psychology: founded and directed a mental health social enterprise, the "Mindfulness Collective," in 2018.
+Psychology: founded and directed a mental health social enterprise, the "Mindfulness Collective," in 2018.
